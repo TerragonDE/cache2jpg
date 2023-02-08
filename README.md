@@ -13,7 +13,7 @@ The Problem with Chrome Cache files is, that they can not directly be opened bec
 
   C:\Users\ ###Username### \AppData\Local\Google\Chrome\User Data\Default\Cache
 
-3. Run the file from command line: python3 "cache2jpg.py" 
+3. Run the file from command line: python "cache2jpg.py" 
 4. Files will be renamed and you can open JPG files directly from Windows Explorer 
 
 ![Original Chrome Cache Folder](https://github.com/TerragonDE/cache2jpg/blob/main/csm_Bildschirmfoto_2021-11-26_um_18.55.37_1c11d97ef0.png?raw=true)
